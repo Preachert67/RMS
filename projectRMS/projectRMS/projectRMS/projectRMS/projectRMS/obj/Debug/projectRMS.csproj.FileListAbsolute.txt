@@ -1,0 +1,22 @@
+D:\ICTproject\projectRMS\bin\Debug\projectRMS.exe.config
+D:\ICTproject\projectRMS\bin\Debug\projectRMS.exe
+D:\ICTproject\projectRMS\bin\Debug\projectRMS.pdb
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.csprojAssemblyReference.cache
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.frmLogin.resources
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.Properties.Resources.resources
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.csproj.GenerateResource.cache
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.csproj.CoreCompileInputs.cache
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.exe
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.pdb
+D:\ICTproject\projectRMS\obj\Debug\projectRMS.frmDashboard.resources
+E:\New folder\projectRMS\projectRMS\bin\Debug\projectRMS.exe.config
+E:\New folder\projectRMS\projectRMS\bin\Debug\projectRMS.exe
+E:\New folder\projectRMS\projectRMS\bin\Debug\projectRMS.pdb
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.csprojAssemblyReference.cache
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.frmDashboard.resources
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.frmLogin.resources
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.Properties.Resources.resources
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.csproj.GenerateResource.cache
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.csproj.CoreCompileInputs.cache
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.exe
+E:\New folder\projectRMS\projectRMS\obj\Debug\projectRMS.pdb
